@@ -305,8 +305,8 @@ INSERT INTO public.moon VALUES (21, 'JMIA', 'Jumia', 7.21, 52, false, 11);
 INSERT INTO public.moon VALUES (22, 'BABA', 'Alibaba', 13.49, 68, true, 11);
 INSERT INTO public.moon VALUES (23, 'GRPN', 'Groupon', 17.55, 198, false, 12);
 INSERT INTO public.moon VALUES (24, 'FTCH', 'Farfetch', 22.51, 220, false, 12);
-INSERT INTO public.moon VALUES (13, 'Nokia', 'NOKIA', 1.55, 18, false, 7);
-INSERT INTO public.moon VALUES (20, 'Fiverr', 'Fiver', 0.10, 37, true, 10);
+INSERT INTO public.moon VALUES (13, 'NOK', 'Nokia', 1.55, 18, false, 7);
+INSERT INTO public.moon VALUES (20, 'FVRR', 'Fiverr', 0.10, 37, true, 10);
 
 
 --
